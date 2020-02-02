@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspNetCoreWithAngular.DomainClasses\AspNetCoreWithAngular.DomainClasses.csproj" />
+    <ProjectReference Include="..\AspNetCoreWithAngular.ViewModels\AspNetCoreWithAngular.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>
